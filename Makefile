@@ -3,3 +3,5 @@ git:
 	@git config --global user.name "hpe-palermo"
 	@echo "Autenticado!"
 
+teste:
+	@echo "Hello!!!"
